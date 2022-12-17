@@ -1,0 +1,44 @@
+#page_header_cont {
+	-webkit-app-region: drag;
+}
+
+#ts_wrap {
+	-webkit-app-region: no-drag;
+}
+
+#top_notify_btn {
+	-webkit-app-region: no-drag;
+}
+
+#top_audio_btn_group {
+	-webkit-app-region: no-drag;
+}
+
+#react_rootEcosystemServicesNavigationEntry {
+	-webkit-app-region: no-drag;
+}
+
+#top_profile_link {
+	-webkit-app-region: no-drag;
+}
+
+#top_switch_lang {
+	-webkit-app-region: no-drag;
+}
+
+.top_audio_player.top_audio_player_enabled {
+	-webkit-app-region: no-drag;
+}
+
+.HeaderNav__item.HeaderNav__item--logo {
+	left: -10000px;
+}
+
+.FCPanel {
+	left: 10000px;
+}
+
+#ads_left {
+	left: -10000px;
+	height: 0px;
+}
